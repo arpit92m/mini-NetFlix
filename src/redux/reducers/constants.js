@@ -1,0 +1,4 @@
+export const SET_MOVIE_DATA = 'SET_MOVIE_DATA';
+export const SET_WATCHED_DATA = 'SET_WATCHED_DATA';
+export const REMOVE_WATCHED_DATA = 'REMOVE_WATCHED_DATA';
+export const ADD_VOTE_DATA = 'ADD_VOTE_DATA';
